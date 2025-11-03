@@ -26,7 +26,8 @@ public class HelpCommand implements Command {
                  -----------------------------------------------------------------------
                  Help                     help                                help
                  Add a course             add <course code>                   add CS2113
-                 Add a study session      add <course code> <hours> [date]    add CS2113 5 [23/10/2025]
+                 Add a study session      add <course code> <hours>           add CS2113 5
+                 Add a study session      add <course code> <hours> <date>    add CS2113 5 23/10/2025
                  List all courses         list                                list
                  List study sessions      list <course code>                  list CS2113
                  Edit course code         edit <old course code> <new code>   edit CS2113 MA1511
